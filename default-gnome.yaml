@@ -1,4 +1,4 @@
-impl: 'https://github.com/blend-os/tracks/raw/main'
+impl: 'https://github.com/tomhard1/tracks/raw/main/'
 
 track: 'gnome'
 
@@ -8,7 +8,6 @@ packages:
   - 'gnome-shell-extension-appindicator'
   - 'gnome-initial-setup'
   - 'filesystem-blend'
-  - 'firefox'
   - 'fprintd'
 
 services:
