@@ -1,0 +1,12 @@
+impl: 'https://github.com/tomhard1/tracks/raw/main/'
+
+track: 'blendos-base'
+
+packages:
+  - 'hyprland'
+  - 'firefox'
+  - 'kitty'
+  - 'sddm'
+
+services:
+  - 'sddm'
