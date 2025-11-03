@@ -8,7 +8,6 @@ packages:
   - 'plasma'
   - 'plasma-workspace'
   - 'sddm'
-  - 'firefox'
   - 'waydroid'
   - 'waydroid-image'
 
